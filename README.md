@@ -8,9 +8,11 @@ https://hub.docker.com/r/onnx/onnx-ecosystem
 * models—模型保存路径
 * images—图片路径
 * jupyter—代码路径
-    * PytorchOnnxExport.ipynb——onnx官方案例2
+    * PytorchOnnxExport.ipynb——onnx[官方案例2](https://github.com/onnx/tutorials/blob/master/tutorials/PytorchOnnxExport.ipynb)
     * super_resolution_with_onnxruntime.ipynb——pytorch[官方案例](https://pytorch.org/tutorials/advanced/super_resolution_with_onnxruntime.html)|onnx案例1
-    * 
+    * VersionConversion.ipynb——[ONNX版本更改](https://github.com/onnx/tutorials/blob/master/tutorials/VersionConversion.md)  
+    * float32_float16_onnx.ipynb——精度转换[官方案例](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/converter_scripts/float32_float16_onnx.ipynb)
+    
 
 
 
