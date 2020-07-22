@@ -2,9 +2,18 @@
 ## 一、环境
 ### Docker环境
 https://hub.docker.com/r/onnx/onnx-ecosystem    
-
-### 裸机环境
+### 主机环境
 略
+## 目录介绍
+* models—模型保存路径
+* images—图片路径
+* jupyter—代码路径
+    * super_resolution_with_onnxruntime.ipynb
+    pytorch[官方案例](https://pytorch.org/tutorials/advanced/super_resolution_with_onnxruntime.html)|onnxruntime案例1
+    * 
+
+
+
 
 ## 二、学习项目
 ### 1、tutorial01
